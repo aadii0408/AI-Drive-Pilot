@@ -48,7 +48,7 @@ A powerful web application (built with Streamlit) that connects to your Google D
 
 ```bash
 git clone <repository-url>
-cd Co-Piolot\ Project
+
 ```
 
 ### 2. Install Python Dependencies
@@ -116,22 +116,6 @@ docker run -p 8501:8501 \
 4. **Source Attribution**: Click file names to open in Google Drive.
 
 ---
-
-## 🔍 Example Queries
-
-- "Q4 sales projections"
-- "budget planning"
-- "key metrics"
-- "project timeline"
-- "invoice 2023"
-- "meeting notes"
-- "marketing images"
-- "team roster"
-- "travel receipts"
-- "annual report"
-
----
-
 ## 📝 Evaluation
 
 To systematically evaluate Drive Copilot's retrieval and answer quality, use the included evaluation spreadsheet:
