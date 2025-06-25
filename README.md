@@ -42,6 +42,12 @@ A powerful web application (built with Streamlit) that connects to your Google D
 
 ---
 
+Demo Images:
+Step1: ![image](https://github.com/user-attachments/assets/f5330538-9ab9-4f89-a9f5-4723063f535e)
+Step2: ![image](https://github.com/user-attachments/assets/fa9b4da5-6e29-479a-ae92-a104ebeefcea)
+
+
+--- 
 ## ⚡ Setup Instructions
 
 ### 1. Clone the Repository
